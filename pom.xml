@@ -33,9 +33,9 @@
     </licenses>
 
     <scm>
-        <url>http://github.com/webjars/markerclusterplus</url>
-        <connection>scm:git:https://github.com/webjars/markerclusterplus.git</connection>
-        <developerConnection>scm:git:https://github.com/webjars/markerclusterplus.git</developerConnection>
+        <url>http://github.com/webjars/markerclustererplus</url>
+        <connection>scm:git:https://github.com/webjars/markerclustererplus.git</connection>
+        <developerConnection>scm:git:https://github.com/webjars/markerclustererplus.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
 
